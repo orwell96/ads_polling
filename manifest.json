@@ -1,0 +1,8 @@
+{
+  "domain": "ads_polling",
+  "name": "ADS (polling)",
+  "version": "0.0.1",
+  "documentation": "https://www.home-assistant.io/integrations/ads",
+  "requirements": ["pyads==3.2.2"],
+  "codeowners": []
+}
